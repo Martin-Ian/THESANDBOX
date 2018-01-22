@@ -6,4 +6,5 @@ Follow Each step and when you finish, you will have a c++ project to play around
 	1. This is a substep.
 	2. This is another substep.
 3. Do this last.
+
 Congrats! You now have a win32 c++ project in Visual Studio 2017!
