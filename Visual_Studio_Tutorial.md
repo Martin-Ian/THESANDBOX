@@ -4,9 +4,9 @@ Follow Each step and when you finish, you will have a c++ project to play around
 
 1. The First thing you want to do is open up _Visual Studio 2017._
 	
-	If you don't own Visual Studio, go [HERE](https://humboldt.onthehub.com/WebStore/Welcome.aspx "HSU's free Software") to download it.
+	If you don't own _Visual Studio_, go **[HERE](https://humboldt.onthehub.com/WebStore/Welcome.aspx "HSU's free Software")** to download it.
 	
-2. Now that you have Visual Studio open, it is time to create a new project!
+2. Now that you have _Visual Studio_ open, it is time to create a new project!
 	1. In the _upper left_, click on **'File'**
 	2. Select **'New'** then in the menu select **'Project'**
 	3. A new window should appear. for our purposes we want a C++ file.
@@ -32,4 +32,4 @@ Follow Each step and when you finish, you will have a c++ project to play around
 
 			
 			
-**Congrats! You now have a win32 c++ project in Visual Studio 2017!**
+**Congrats! You now have a win32 C++ project in _Visual Studio 2017_!**
