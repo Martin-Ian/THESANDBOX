@@ -11,7 +11,7 @@ Follow Each step and when you finish, you will have a c++ project to play around
 	2. Select **'New'** then in the menu select **'Project'**
 	3. A new window should appear. for our purposes we want a C++ file.
 		1. On the _left_ of the window drop down **'Installed'** and then **'Visual C++'**
-		2. Now open **General'** and select **'Empty Project'**
+		2. Now open **'General'** and select **'Empty Project'**
 		3. Go ahead and name your project, and select your desired location
 			1. Remember, if you are on a school Lab computer to create a **'bin'** folder!
 			
